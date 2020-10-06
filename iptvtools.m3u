@@ -1,3 +1,15 @@
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR01y0xF3MGcnUB1-kNh1aQzCs7xqZ2o2JeQLGEthAlKNZIk0kc" group-title="ANAK-ANAK",Disney XD
+https://www.livedoomovie.com/02_DisneyXD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/brVKQNvv/Red-HBO.png" group-title="Movies",Red by HBO
+https://www.livedoomovie.com/02_RedbyHBO_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.net/wp-content/uploads/2017/06/fox-movies-logo.png" group-title="Movies",Fox Movies HD
+https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ANAK-ANAK",EBS KIDS
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/_definst_/tablet500k/chunklist_w1145871295.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ24Psuj0ngQvXDHM9eiN9-QbxA0wnRWn-bccixoM3rZOCKrV__" group-title="ANAK-ANAK",Greek kids
+http://wpso.com:1936/hls/kidshd.m3u8
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSdbXOVNW-Ztj62ac9MgKqXW5DKnKfNqaP0hLGVgp0viSYQiOu7" group-title="ANAK-ANAK", Kuriakos Kids
+http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8?fluxustv.m3u8
 #EXTINF:-1  tvg-logo="http://bit.ly/2uumti4" group-title="TV NASIONAL",METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
 #EXTINF:-1  tvg-logo="http://bit.ly/2uumti4" group-title="TV NASIONAL",BERITA SATU
